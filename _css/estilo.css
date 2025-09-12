@@ -1,0 +1,27 @@
+/**
+* 
+*   Projeto: Desafio 01 - Tela de login responsiva
+*   Desenvolvido por: David Nascimento Melo
+*   E-mail: dnmnascimento@outlook.com
+*   Github: @dd-nascimento
+*
+**/
+
+/** IMPORTS **/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/** Declaração de código CSS */
+
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+    background: linear-gradient(to right, #015CF5 0%, 50%, #254AA5 100%);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
