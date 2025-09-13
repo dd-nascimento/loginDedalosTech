@@ -1,5 +1,8 @@
 # Desafio: LOGIN DEDALOS TECH
-Tela de login para o sistema Dedalos Tech
 
+O **Login Dedalos Tech** é um projeto experimental de desenvolvimento front-end, criado a partir **do zero**, sem a utilização de frameworks, tendo o objetivo de praticar o desenvolvimento web utilizando o básico: HTML, CSS e RESPONSIVIDADE promovida através do uso de @media. 
 
-## O projeto
+## Stack utilizada
+
+* HTML 5
+* CSS com @medias
