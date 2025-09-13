@@ -15,10 +15,10 @@
 /** Declaração de código CSS */
 
 *{
-    margin: 0;
+  margin: 0;
 	padding: 0;
 	border: 0;
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 body{
@@ -31,7 +31,7 @@ body{
     height: 200%;
     width: 35%;
     background-color:rgba(217, 217, 217, 0.8);
-    margin-top: 5%;
+    margin-top: 3%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
@@ -75,10 +75,18 @@ input{
     border-radius: 5px;
 }
 
+.btn{
+    padding: 9px;
+    font-weight: bold;
+    color: white;
+    background-color: #015CF5;
+}
+
 .titulo{
     font-size: 20px;
     font-weight: bolder;
     text-align: center;
+    margin-top: 10px;
 }
 
 /******************** Animação ******************/
@@ -91,11 +99,17 @@ input{
 
 }
 
+.btn:hover{
+    transition: 0.5;
+    background-color: #254AA5;
+    color: white;
+}
 /*------------------- Responsividade ------------*/
 
 @media (max-width: 768px) {
   .login{
     width: 80%;
+    margin-top: 10%;
     padding: 1.5rem;
   }
 }
@@ -103,6 +117,7 @@ input{
 @media (max-width: 480px) {
   .login {
     width: 90%; 
+    margin-top: 10%;
     padding: 1rem;
   }
 }
