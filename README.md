@@ -7,6 +7,10 @@ O **Login Dedalos Tech** é um projeto experimental de desenvolvimento front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## Tela do projeto
+
+![Login Dedalos Tech](./_img/loginDT.png)
+
 ## Autor
 
 - **David Nascimento Melo**
@@ -16,3 +20,5 @@ O **Login Dedalos Tech** é um projeto experimental de desenvolvimento front-end
 ### Observações
 
 Nos commits iniciais deste projeto, você encontrará os links para utilização do Bootstrap, porém, nenhuma das configurações e/ou artefatos do framework foram utilizados neste.
+
+![Status](https://img.shields.io/badge/Status-Desenvolvimento%20Concluido-green)
