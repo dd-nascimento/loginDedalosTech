@@ -16,4 +16,3 @@ David Nascimento Melo
 ### Observaçẽos
 
 Nos commits iniciais deste projeto, você encontrará os links para utilização do Bootstrap, porém, nenhuma das configurações e/ou artefatos do framework foram utilizados neste.
-
